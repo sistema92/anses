@@ -1,0 +1,15 @@
+.txt3{
+        position: relative;
+        top:250px;
+        left:100px;
+        color:#2271b3;
+        font-weight: bold;
+        font-size:20px;
+    }
+
+ #btn_volver{
+        position:fixed;
+        top:300px;
+        left:500px;
+        width:200px;
+        }
